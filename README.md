@@ -1,3 +1,7 @@
+vue 강의 들으면서 배운 내용 정리하기 위함
+
+<hr />
+
 # vue-practice
 
 This template should help get you started developing with Vue 3 in Vite.
